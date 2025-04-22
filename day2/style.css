@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Now Display";
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+#main {
+  padding: 20px;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(32, 32, 32);
+}
+
+#topbanner {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgb(136, 136, 136);
+  display: flex;
+  justify-content: space-between;
+}
+
+#ltb {
+  display: flex;
+  gap: 20px;
+}
+
+#ltb h3 {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+#rtb {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: black;
+  margin-top: 5px;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: rgb(216, 216, 216);
+}
+
+#lnav {
+  display: flex;
+  gap: 20px;
+}
+
+#lnav i {
+  font-size: 25px;
+}
+
+#cnav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+#cnav a {
+  font-weight: 500;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+#cnav button {
+  font-size: 10px;
+  letter-spacing: 1px;
+  padding: 8px 20px;
+  border-radius: 100px;
+  background-color: black;
+  color: #fff;
+  border: none;
+  text-transform: uppercase;
+}
+
+#rnav {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+#rnav button {
+  padding: 10px 25px;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 100px;
+}

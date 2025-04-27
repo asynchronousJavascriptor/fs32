@@ -12,9 +12,8 @@ body {
 }
 
 #main {
-  padding: 20px;
+  padding: 20px 60px;
   width: 100%;
-  background-color: rgb(231, 231, 231);
 }
 
 #topbanner {
@@ -129,35 +128,121 @@ body {
   -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
 
-#datanform{
+#datanform {
   margin-top: 100px;
   width: 100%;
   display: flex;
   justify-content: space-between;
 }
 
-#data{
+#data {
   width: 40%;
 }
 
-#data h1{
+#data h1 {
   font-size: 50px;
   line-height: 1;
   margin: 10px 0;
 }
 
-#data p{
+#data p {
   font-size: 17px;
   margin-bottom: 20px;
 }
 
-#data .dets{
+#data .dets {
   display: flex;
   gap: 30px;
 }
 
-#form{
-  width: 40%;
-  height: 300px;
-  background-color: yellow;
+#form {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#fleft {
+  width: 45%;
+}
+
+#fleft h1 {
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 1;
+  margin: 20px 0;
+}
+
+#fleft > p {
+  font-size: 16px;
+  margin-bottom: 60px;
+}
+
+.row {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.data h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.data p {
+  font-weight: 500;
+  opacity: 0.5;
+}
+
+#fright {
+  width: 45%;
+  padding: 60px;
+  border-radius: 20px;
+  background-color: rgb(228, 228, 228);
+}
+
+#fright h1 {
+  font-size: 25px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+#fright p {
+  font-size: 15px;
+  opacity: 0.6;
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+#fright form {
+  margin-top: 30px;
+}
+
+#fright form input,
+form textarea {
+  resize: none;
+  outline: none;
+  font-size: 16px;
+  width: 100%;
+  border: none;
+  padding-bottom: 5px;
+  background-color: transparent;
+  border-bottom: 1px solid black;
+  margin-top: 20px;
+}
+
+#fright form #sub {
+  width: fit-content;
+  padding: 10px 20px;
+  border: none;
+  background-color: black;
+  color: #fff;
+  margin-top: 30px;
+  border-radius: 100px;
+}
+
+#sub i{
+  margin-right: 10px;
 }

@@ -1,21 +1,18 @@
-#pics {
-  display: flex;
-  align-items: center;
-  gap: 20px;
+#page {
+  height: 3400px;
 }
 
-img {
-  height: 200px;
-}
-
-#modal {
-  display: none;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
+#progresscontainer {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 2px;
+  background-color: #ededed;
+}
+
+#progress {
+  width: 0%;
+  height: 100%;
+  background-color: red;
 }

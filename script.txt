@@ -1,0 +1,67 @@
+welcome
+
+42.6% placeable via mercer report
+Section 1 - The Godfather of Jobs
+Full Stack Web Development
+explain full stack
+US stat bataata hoon — full stack jobs are projected to grow 22% by 2030
+companies expect you to know cloud, APIs, Docker, even AI integrations
+
+2015 vs 2025
+frontend pasand hai aapko ya backend
+Engagement Prompt: “Type in chat — frontend pasand hai aapko ya backend ya dono?
+
+
+Key Message: “Full stack dev ban ke aap apni profile 10x attractive bana sakte ho. Aur sabse badi baat — projects banao. Ek personal portfolio with contact form, ek ecommerce app with payment gateway… that’s enough to prove your skills to recruiters.
+
+Section 1.5 - The rise of advanced.
+handle how basics ki jobs jaa rahi hai
+har field mein
+jo bhi advanced kaam kar raha hai sab khush hai koi dar nahi kisiko
+web mein bhi advanced cheejein hai
+name some advanced things from web
+
+Section 2 – The Emerging Player
+Generative AI
+
+Aaj ke time pe 75% workers worldwide AI use kar rahe hain in workplace. Aur 65% specifically ChatGPT use kar chuke hain. Matlab ek saal ke andar AI normal ho gaya hai.
+
+AI skilled talent ki kami hai. Ek stat dekho: AI job postings grew 50% between 2022–2024. Matlab demand crazy hai, supply kam hai.
+
+Aur developers ke liye to aur bhi bada game changer hai. Ek research ne bola ke developers using AI completed 126% more tasks per week than those who didn’t. Matlab 2x output.
+
+Engagement Prompt: “Tell me in chat — have you ever used ChatGPT or Copilot to code or solve a problem? Yes or No.”
+
+Key Message: “AI ko dushman mat samjho, use apna accelerator banao. Projects mein AI integrate karo, resume pe dikhado, aur companies ko lagna chahiye — this person is future ready.”
+
+
+Section 3 - The Evergreen
+DSA — Data Structures & Algorithms.
+ Reddit pe engineer ne likha tha, ‘4 out of 5 interviews I had asked some kind of LeetCode-style DSA question.’ Aur dusre ne bola, ‘DSA shayad daily job mein use na ho, but interview crack karna hai to it’s non-negotiable.’
+
+your personal experience
+
+ 👉 Engagement Prompt: “Chat mein likho — kisne LeetCode ya GFG try kiya hai kabhi?”
+
+Key Message: “DSA is not optional. Kam se kam intermediate level tak master karo. Aur sirf code likhna mat seekho — analyze karo time complexity bhi.”
+
+
+
+Section 4 – The off-campus knight
+Aptitude & Reasoning
+
+Ek fact: TCS, Infosys, Cognizant, sabke aptitude test cutoffs hote hain. Agar aapne aptitude lightly liya, aap interview tak nahi pohonchoge.
+
+Mercer report ne bola — sirf 54% graduates critical thinking dikhate hain. Matlab aadhe log fail ho jaate hain issi pe.
+
+👉 Engagement Prompt: “Tell me honestly — how many of you feel math is your weak point? Type YES if you feel so.”
+
+Key Message: “Aptitude ko lightly mat lo. Daily 30 min practice karne se within 2-3 months you’ll see massive improvement.”
+
+Okay guys, ab 2 ghante ho gaye hain, aur humne cover kiya:
+✅ Full Stack Dev
+✅ Generative AI
+✅ DSA
+✅ Aptitude
+
+
